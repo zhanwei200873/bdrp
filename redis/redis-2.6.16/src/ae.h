@@ -50,6 +50,7 @@
 /* Macros */
 #define AE_NOTUSED(V) ((void) V)
 
+
 struct aeEventLoop;
 
 /* Types and data structures */
